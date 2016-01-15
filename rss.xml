@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kre8sions]]></title>
         <description><![CDATA[kre8sions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kre8sions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 17:49:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 18:48:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kre8sions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>This is my first post !!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11ae43aa649274893ca13b6ca93baa225b88ee41.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kre8sions/test-post/index.html</link>
+            <guid isPermaLink="false">fe8a5988-13c0-4506-b891-31f3d24b8ddf</guid>
+            <pubDate>Fri, 15 Jan 2016 18:48:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>UI/UX Designer with Games in Mind</p>]]></description>
-            <link>undefined6128a577-90ec-4989-92a3-4d67d2c0b6d9/index.html</link>
+            <link>https://thegrid.ai/kre8sions/6128a577-90ec-4989-92a3-4d67d2c0b6d9/index.html</link>
             <guid isPermaLink="false">6128a577-90ec-4989-92a3-4d67d2c0b6d9</guid>
             <pubDate>Fri, 15 Jan 2016 17:48:56 GMT</pubDate>
         </item>
