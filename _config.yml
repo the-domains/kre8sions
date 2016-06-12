@@ -1,7 +1,4 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
 name: kre8sions
 opengraph:
   image: null
@@ -13,28 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
-typography_spectrum: 0.11177
 color:
-  saturation: 0.7078853
+  saturation: 1
   brandStrength: 0.1875
-  lightness: 0.4982079
+  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.5
-layout_spectrum: 1
+  rhythmicContrast: 1
+typography_spectrum: 0.1612903
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
